@@ -120,25 +120,25 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 ### SOBEL X:
-![img1]()
+![img1](https://github.com/vijay21500269/Edge-Detection/blob/main/img1.png)
 ### SOBEL Y:
-![img2]()
+![img2](https://github.com/vijay21500269/Edge-Detection/blob/main/img2.png)
 
 
 ### SOBEL XY:
-![img3]()
+![img3](https://github.com/vijay21500269/Edge-Detection/blob/main/img3.png)
 
 
 
 
 
 ### LAPLACIAN EDGE DETECTOR
-![img4]()
+![img4](https://github.com/vijay21500269/Edge-Detection/blob/main/img4.png)
 
 
 
 ### CANNY EDGE DETECTOR
-![img5]()
+![img5](https://github.com/vijay21500269/Edge-Detection/blob/main/img5.png)
 
 
 ## Result:
